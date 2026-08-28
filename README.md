@@ -14,5 +14,5 @@ total of the price should pay
 
 ### final print
 
-we combine all variables together to give us the result of calculating price plus quantity.
+we combine all variables together to give us the result of calculating price multiple by quantity.
 and using formatted string to make it look cooll (f"...")
