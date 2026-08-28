@@ -3,4 +3,4 @@ quantity = int(input("how manu are there: "))
 
 total = price * quantity
 
-print(f"{quantity} items at {price:.2f} each is : {total:.2f}")
+print(f"{quantity} items at {price:.2f} each = {total:.2f}")
